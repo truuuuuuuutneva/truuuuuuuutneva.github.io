@@ -1,2 +1,2 @@
-# truuuuuuuutneva.github.io
-сайт-визикa на HTML, CSS
+# cv_test
+Сайт-визика на HTML + CSS + JS
