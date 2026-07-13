@@ -1,5 +1,15 @@
-## Привет！ 👋
+# Hi there! 👋 I'm Natalia
 
+### QA Engineer
+
+✨ Open-minded • Curious • Detail-oriented • Always learning
+
+I’m passionate about software quality, API testing, and building reliable products.  
+I enjoy finding edge cases, improving processes, and turning bugs into better user experiences.
+
+🌊 Greetings from Sakhalin, Russia's largest island.
+
+---
 
 ## 📊 Статистика
 
@@ -82,14 +92,14 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/https://raw.githubusercontent.com/truuuuuuuutneva/truuuuuuuutneva.github.io/refs/heads/main/dioloma.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
+[<img src="https://raw.githubusercontent.com/truuuuuuuutneva/truuuuuuuutneva.github.io/refs/heads/main/dioloma.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
 
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:rudkovskaya.natalya@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@nrudkovskaya)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
